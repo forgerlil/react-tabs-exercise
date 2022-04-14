@@ -48,8 +48,9 @@ function App() {
       </div>
       <div className="block">
         <p>Import your components here</p>
-        <Tabs />
       </div>
+      <Tabs />
+      <MyMap />
     </div>
   );
 }
