@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/forgerlil/react-tabs-exercise.git/static/css/main.a4c4ee26.css",
-    "main.js": "/forgerlil/react-tabs-exercise.git/static/js/main.1788938e.js",
+    "main.css": "/forgerlil/react-tabs-exercise.git/static/css/main.68b4e2a2.css",
+    "main.js": "/forgerlil/react-tabs-exercise.git/static/js/main.6abce8b4.js",
     "static/js/787.0c785256.chunk.js": "/forgerlil/react-tabs-exercise.git/static/js/787.0c785256.chunk.js",
     "index.html": "/forgerlil/react-tabs-exercise.git/index.html",
-    "main.a4c4ee26.css.map": "/forgerlil/react-tabs-exercise.git/static/css/main.a4c4ee26.css.map",
-    "main.1788938e.js.map": "/forgerlil/react-tabs-exercise.git/static/js/main.1788938e.js.map",
+    "main.68b4e2a2.css.map": "/forgerlil/react-tabs-exercise.git/static/css/main.68b4e2a2.css.map",
+    "main.6abce8b4.js.map": "/forgerlil/react-tabs-exercise.git/static/js/main.6abce8b4.js.map",
     "787.0c785256.chunk.js.map": "/forgerlil/react-tabs-exercise.git/static/js/787.0c785256.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4c4ee26.css",
-    "static/js/main.1788938e.js"
+    "static/css/main.68b4e2a2.css",
+    "static/js/main.6abce8b4.js"
   ]
 }
