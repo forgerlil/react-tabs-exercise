@@ -49,7 +49,7 @@ function App() {
       <div className="block">
         <p>Import your components here</p>
         <Tabs />
-        <MyMap />
+        <MyMap lat={51.3} lng={1} />
       </div>
     </div>
   );
